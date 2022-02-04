@@ -1,0 +1,16 @@
+C:\Git\try-catch-performace\try-catch-performace\bin\Debug\net5.0\try-catch-performace.exe
+C:\Git\try-catch-performace\try-catch-performace\bin\Debug\net5.0\try-catch-performace.deps.json
+C:\Git\try-catch-performace\try-catch-performace\bin\Debug\net5.0\try-catch-performace.runtimeconfig.json
+C:\Git\try-catch-performace\try-catch-performace\bin\Debug\net5.0\try-catch-performace.runtimeconfig.dev.json
+C:\Git\try-catch-performace\try-catch-performace\bin\Debug\net5.0\try-catch-performace.dll
+C:\Git\try-catch-performace\try-catch-performace\bin\Debug\net5.0\ref\try-catch-performace.dll
+C:\Git\try-catch-performace\try-catch-performace\bin\Debug\net5.0\try-catch-performace.pdb
+C:\Git\try-catch-performace\try-catch-performace\obj\Debug\net5.0\try-catch-performace.csproj.AssemblyReference.cache
+C:\Git\try-catch-performace\try-catch-performace\obj\Debug\net5.0\try-catch-performace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\try-catch-performace\try-catch-performace\obj\Debug\net5.0\try-catch-performace.AssemblyInfoInputs.cache
+C:\Git\try-catch-performace\try-catch-performace\obj\Debug\net5.0\try-catch-performace.AssemblyInfo.cs
+C:\Git\try-catch-performace\try-catch-performace\obj\Debug\net5.0\try-catch-performace.csproj.CoreCompileInputs.cache
+C:\Git\try-catch-performace\try-catch-performace\obj\Debug\net5.0\try-catch-performace.dll
+C:\Git\try-catch-performace\try-catch-performace\obj\Debug\net5.0\ref\try-catch-performace.dll
+C:\Git\try-catch-performace\try-catch-performace\obj\Debug\net5.0\try-catch-performace.pdb
+C:\Git\try-catch-performace\try-catch-performace\obj\Debug\net5.0\try-catch-performace.genruntimeconfig.cache
